@@ -69,6 +69,7 @@ Scrapers available for:
 - `https://finedininglovers.com/ <https://www.finedininglovers.com>`_
 - `https://fitmencook.com/ <https://www.fitmencook.com>`_
 - `https://food.com/ <https://www.food.com>`_
+- `https://www.foodandwine.com/ <https://www.foodandwine.com/>`_
 - `https://foodnetwork.com/ <https://www.foodnetwork.com>`_
 - `https://foodrepublic.com/ <https://foodrepublic.com>`_
 - `https://geniuskitchen.com/ <https://geniuskitchen.com>`_
