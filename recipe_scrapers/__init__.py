@@ -21,6 +21,7 @@ from .epicurious import Epicurious
 from .finedininglovers import FineDiningLovers
 from .fitmencook import FitMenCook
 from .food import Food
+from .foodandwine import FoodAndWine
 from .foodnetwork import FoodNetwork
 from .foodrepublic import FoodRepublic
 from .giallozafferano import GialloZafferano
@@ -93,6 +94,7 @@ SCRAPERS = {
     FineDiningLovers.host(): FineDiningLovers,
     FitMenCook.host(): FitMenCook,
     Food.host(): Food,
+    FoodAndWine.host(): FoodAndWine,
     FoodNetwork.host(): FoodNetwork,
     FoodRepublic.host(): FoodRepublic,
     GialloZafferano.host(): GialloZafferano,
